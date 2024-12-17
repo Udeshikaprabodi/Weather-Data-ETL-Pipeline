@@ -1,0 +1,6 @@
+{
+    "host": "localhost",
+    "database": "weather_db",
+    "user": "postgres",
+    "password": "nipuni99"
+}
