@@ -35,4 +35,4 @@ def load_data():
     connection.commit()
     cursor.close()
     connection.close()
-    print("Weather data loaded into PostgreSQL successfully.")
+    print("Weather data loaded into PostgreSQL successfull.")
